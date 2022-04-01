@@ -1,4 +1,4 @@
-# Train-Valid-Test-Split
+# Train-Valid-Test-Split Dataset
 ## Definition of Train-Valid-Test 
 Split Train-Valid-Test split is a technique to evaluate the performance of a machine learning model — classification or regression alike.  We need to take a given dataset and divide it into three subsets.  A brief description of the role of each of these datasets is below. 
 ## Train Dataset 
